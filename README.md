@@ -1,4 +1,4 @@
-# Hackathon Template Github
+# CROCUS Data Science 101
 
 **2024-11-19**  **-** **2024-11-20** 
 
